@@ -1,10 +1,6 @@
-# TINB
+# The Archive
 
-The Internet is Nice and Beautiful. Probably.
-
-This repository is for some weird stuff from the Internet
-
-:)
+Near's Archive Resporitory
 
 Kuroyuki Near
 03November2021
