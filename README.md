@@ -1,6 +1,8 @@
 # The Archive
 
-Near's Archive Resporitory
+Near's Archive & Collection Resporitory
 
-Kuroyuki Near
+I collect different stuff on the Internet :D
+
+
 03November2021
