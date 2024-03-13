@@ -1,7 +1,5 @@
 *.
 .gitignore
-
-! Adding these as my antivirus keeps deleting them
 scripts/Crash.bat
 scripts/Crash.vbs
 scripts/DeleteCdriveContent.bat
