@@ -48,6 +48,10 @@ Archive
 [03042024]<br>
 [/txt/commit.md/](/txt/commit.md/)
 
+#### Open Source Essentials
+[14072024]<br>
+[/txt/opensource.md/](/txt/opensource.md/)
+
 #
 
 <br><br><br>
